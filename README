@@ -1,0 +1,13 @@
+There Are four files
+Cybersecurity_attacks
+  -This file is the original csv file from the kaggle data set that we were supposed to train and run our model on
+
+Data Sci Project 
+  - This is the jupyter notebook with all the code of our original visualization of the dataset. 
+  - It has the synthetic dataset generator code that should save to the same folder as the file, which than is opened, cleaned, and used to train the three models as well as print out our visuals and results
+
+synthetic_cyber_attacks
+  - The synthetic dataset file in case there are issues running
+
+Synthetic Data generator
+  - The file to make the syntehtic dataset as python code outside. Its already in the notebook, this is just added redundancy
